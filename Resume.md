@@ -9,7 +9,7 @@ order: 4
 ## INFORMATION
 ---
 - (224)-253-8314
-- Email: Aldawood2014@gmail.com
+- Email: [Aldawood2014@gmail.com](aldawood2014@gmail.com)
 - LinkedInURL: [www.linkedin.com/in/AldawoodAD](www.linkedin.com/in/AldawoodAD])
 - [www.aldawood.io](www.aldawood.io) 
 

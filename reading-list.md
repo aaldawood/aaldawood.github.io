@@ -5,6 +5,7 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
+xfun::embed_file("assets/Aldawood Ahmed-21.pdf")
 
 I love books! Here are some I'm reading now:
 

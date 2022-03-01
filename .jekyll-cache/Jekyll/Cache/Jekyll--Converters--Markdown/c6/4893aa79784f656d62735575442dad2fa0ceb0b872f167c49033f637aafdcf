@@ -1,0 +1,81 @@
+I"~<h2 id="information">INFORMATION</h2>
+<hr />
+<ul>
+  <li>(224)-253-8314</li>
+  <li>Email: <a href="aldawood2014@gmail.com">Aldawood2014@gmail.com</a></li>
+  <li>LinkedInURL: <a href="www.linkedin.com/in/AldawoodAD]">www.linkedin.com/in/AldawoodAD</a></li>
+  <li><a href="www.aldawood.io">www.aldawood.io</a></li>
+</ul>
+
+<h2 id="education">EDUCATION</h2>
+<hr />
+<h3 id="illinois-institute-of-technology-chicago-il">Illinois Institute of Technology, Chicago, IL</h3>
+<ul>
+  <li>Master’s degree in Information Technology Management December 2019
+    <ul>
+      <li>GPA: 3.5/4</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="prince-mohammed-bin-fahad-university-saudi-arabia">Prince Mohammed Bin Fahad University, Saudi Arabia</h3>
+<ul>
+  <li>Bachelor’s degree in Computer Engineering September 2014</li>
+</ul>
+
+<h2 id="skills-and-languages">SKILLS AND LANGUAGES</h2>
+<hr />
+<ul>
+  <li>C++, Python, Java, Java Scripts, Widows and Linux Command Language</li>
+  <li>SQL and database management</li>
+  <li>Using microcontroller and microprocessor platforms like Arduino and raspberry-pi</li>
+  <li>AWS Administrative, permission, and Role control</li>
+  <li>AWS API Gateways, Lambda functions, Elastic beanstalk, and Dynamo DB</li>
+  <li>Hadoop Distributed File System</li>
+  <li>Data Analysis and Modeling</li>
+  <li>Bilingual in English and Arabic</li>
+</ul>
+
+<h2 id="experience">EXPERIENCE</h2>
+<hr />
+<h3 id="international-certificate-program-coordinator--january-2019--january-2021-"><strong>International Certificate program coordinator</strong> ( January 2019 – January 2021 )</h3>
+<h4 id="office-of-professional-development-opd-at-illinois-institute-of-technology">Office of Professional Development (OPD) at Illinois Institute of Technology</h4>
+<ul>
+  <li>Handled systems and operations of the department, from admissions to graduation to web site development to data analytics</li>
+  <li>Assisted in all aspects of the OPD programs for both domestic and international students</li>
+  <li>Created and maintained Databases essential for the Office of the Professional Development</li>
+  <li>Maintained and serviced the office Desktops, laptops, and printers</li>
+</ul>
+
+<h3 id="sales-team-lead-september-2015--october-2016-"><strong>Sales Team Lead</strong>( September 2015 – October 2016 )</h3>
+<h4 id="i-machines-apple-premium-reseller-apr">i-Machines Apple Premium Reseller (APR)</h4>
+<ul>
+  <li>Managed and operated i-Machines APR Store in AL-DHAHRAN MALL</li>
+  <li>Supervised, Trained, and evaluated employees and new recruits</li>
+  <li>Provided weekly sales reports to the management</li>
+  <li>Troubleshoot and service customers devise issues</li>
+</ul>
+
+<h2 id="projects">PROJECTS</h2>
+<hr />
+<h3 id="aws-cicd-web-development">AWS CICD Web Development</h3>
+<ul>
+  <li>Programmed and deployed web applications utilizing the AWS platform. The objective was to usethe tools AWS provide to create a CICD environment (Continues Integration Continues Deployment).</li>
+</ul>
+
+<h3 id="micro-controllers-simon-game-with-wireless-controllers">Micro-Controllers Simon Game with Wireless Controllers</h3>
+<ul>
+  <li>Designed, build and programmed a Simon game using microcontrollers (Arduino). The main addition to this project is to add different wireless modules such as the Xbee radio module to create a radio frequency communication between the Arduino and the controllers. Another module used was the Adafruit feather for Bluetooth connection between the Arduino and any Bluetooth enabled device.</li>
+</ul>
+
+<h3 id="linear-optimization-modeling-web-application">Linear Optimization Modeling Web Application</h3>
+<ul>
+  <li>Utilized AWS Elastic Beanstalk, Dynamo DB, and Nodejs to build a web linear optimizer application that can take objective functions for any business or decision and compile a solution to show the best way to minimize costs or maximize profits.</li>
+</ul>
+
+<h3 id="automated-drone-movement-fleet-charging-platform-team">Automated Drone Movement Fleet (Charging Platform Team)</h3>
+<ul>
+  <li>Designed and built a prototype for an automated platform for drones to land on and start charging, the goal is to design a plat form that will charge the drone without any human intervention.</li>
+</ul>
+
+:ET

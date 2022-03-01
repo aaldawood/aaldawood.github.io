@@ -1,4 +1,4 @@
-I"v<h2 id="information">INFORMATION</h2>
+I"Ó<h2 id="information">INFORMATION</h2>
 <hr />
 <ul>
   <li>(224)-253-8314</li>
@@ -28,9 +28,11 @@
 <ul>
   <li>C++, Python, Java, Java Scripts, Widows and Linux Command Language</li>
   <li>SQL and database management</li>
+  <li>Active Directory and Group Policy management</li>
   <li>Using microcontroller and microprocessor platforms like Arduino and raspberry-pi</li>
   <li>AWS Administrative, permission, and Role control</li>
   <li>AWS API Gateways, Lambda functions, Elastic beanstalk, and Dynamo DB</li>
+  <li>Cisco Vlan configuration</li>
   <li>Hadoop Distributed File System</li>
   <li>Data Analysis and Modeling</li>
   <li>Bilingual in English and Arabic</li>
@@ -60,7 +62,7 @@
 <hr />
 <h3 id="aws-cicd-web-development">AWS CICD Web Development</h3>
 <ul>
-  <li>Programmed and deployed web applications utilizing the AWS platform. The objective was to usethe tools AWS provide to create a CICD environment (Continues Integration Continues Deployment).</li>
+  <li>Programmed and deployed web applications utilizing the AWS platform. The objective was to use the tools AWS provide to create a CICD environment (Continues Integration Continues Deployment).</li>
 </ul>
 
 <h3 id="micro-controllers-simon-game-with-wireless-controllers">Micro-Controllers Simon Game with Wireless Controllers</h3>

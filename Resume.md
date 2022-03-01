@@ -27,9 +27,11 @@ order: 4
 ---
 * C++, Python, Java, Java Scripts, Widows and Linux Command Language
 * SQL and database management
+* Active Directory and Group Policy management 
 * Using microcontroller and microprocessor platforms like Arduino and raspberry-pi
 * AWS Administrative, permission, and Role control
 * AWS API Gateways, Lambda functions, Elastic beanstalk, and Dynamo DB
+* Cisco Vlan configuration 
 * Hadoop Distributed File System
 * Data Analysis and Modeling 
 * Bilingual in English and Arabic
@@ -53,7 +55,7 @@ order: 4
 ## PROJECTS
 ---	
 ### AWS CICD Web Development
-* Programmed and deployed web applications utilizing the AWS platform. The objective was to usethe tools AWS provide to create a CICD environment (Continues Integration Continues Deployment).
+* Programmed and deployed web applications utilizing the AWS platform. The objective was to use the tools AWS provide to create a CICD environment (Continues Integration Continues Deployment).
 
 ### Micro-Controllers Simon Game with Wireless Controllers
 * Designed, build and programmed a Simon game using microcontrollers (Arduino). The main addition to this project is to add different wireless modules such as the Xbee radio module to create a radio frequency communication between the Arduino and the controllers. Another module used was the Adafruit feather for Bluetooth connection between the Arduino and any Bluetooth enabled device. 

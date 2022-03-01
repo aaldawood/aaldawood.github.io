@@ -4,7 +4,7 @@ layout: "page"
 icon: fa-book
 order: 4
 ---
-# 
+
 ## INFORMATION
 ---
 - (224)-253-8314
@@ -20,7 +20,8 @@ order: 4
 
 ### Prince Mohammed Bin Fahad University, Saudi Arabia
 * Bachelor's degree in Computer Engineering September 2014
-#
+
+
 ## SKILLS AND LANGUAGES	
 ---
 * C++, Python, Java, Java Scripts, Widows and Linux Command Language
@@ -31,7 +32,7 @@ order: 4
 * Hadoop Distributed File System
 * Data Analysis and Modeling 
 * Bilingual in English and Arabic
-#
+
 ## EXPERIENCE	
 ---
 ### **International Certificate program coordinator** ( January 2019 – January 2021 )
@@ -47,13 +48,15 @@ order: 4
 * Supervised, Trained, and evaluated employees and new recruits
 * Provided weekly sales reports to the management
 * Troubleshoot and service customers devise issues   
-#
+
 ## PROJECTS
 ---	
 ### AWS CICD Web Development
 * Programmed and deployed web applications utilizing the AWS platform. The objective was to usethe tools AWS provide to create a CICD environment (Continues Integration Continues Deployment).
+
 ### Micro-Controllers Simon Game with Wireless Controllers
 * Designed, build and programmed a Simon game using microcontrollers (Arduino). The main addition to this project is to add different wireless modules such as the Xbee radio module to create a radio frequency communication between the Arduino and the controllers. Another module used was the Adafruit feather for Bluetooth connection between the Arduino and any Bluetooth enabled device. 
+
 ### Linear Optimization Modeling Web Application
 * Utilized AWS Elastic Beanstalk, Dynamo DB, and Nodejs to build a web linear optimizer application that can take objective functions for any business or decision and compile a solution to show the best way to minimize costs or maximize profits.
 

@@ -1,6 +1,6 @@
 ---
 title: Ahmed Aldawood 
-layout: "page"
+layout: page
 icon: fa-book
 order: 4
 ---

@@ -36,14 +36,14 @@ order: 4
 
 ## EXPERIENCE	
 ---
-### **International Certificate program coordinator** ( January 2019 – January 2021 )
+### **International Certificate program coordinator** (January 2019 – January 2021)
 #### Office of Professional Development (OPD) at Illinois Institute of Technology
 * Handled systems and operations of the department, from admissions to graduation to web site development to data analytics
 * Assisted in all aspects of the OPD programs for both domestic and international students
 * Created and maintained Databases essential for the Office of the Professional Development
 *  Maintained and serviced the office Desktops, laptops, and printers  
 
-### **Sales Team Lead**( September 2015 – October 2016 )
+### **Sales Team Lead**(September 2015 – October 2016)
 #### i-Machines Apple Premium Reseller (APR)
 * Managed and operated i-Machines APR Store in AL-DHAHRAN MALL
 * Supervised, Trained, and evaluated employees and new recruits

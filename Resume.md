@@ -1,8 +1,8 @@
 ---
-title: Resume  
+title: 'Resume'  
 layout: page
 icon: fa-book
-auto-header: 'none'
+sub-header: "AHMED ALDAWOOD"
 order: 4
 ---
 

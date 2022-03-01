@@ -1,6 +1,5 @@
 ---
-title: Resume 2
-subtitle: a list of books I read
+title: Resume 
 layout: "page"
 icon: fa-book
 order: 4

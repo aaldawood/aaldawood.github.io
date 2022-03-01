@@ -2,7 +2,7 @@
 title: Resume  
 layout: page
 icon: fa-book
-auto-header: "AHMED ALDAWOOD"
+auto-header: none
 order: 4
 ---
 

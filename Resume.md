@@ -1,6 +1,6 @@
 ---
 title: Resume  
-# layout: page
+layout: page
 icon: fa-book
 auto-header: "AHMED ALDAWOOD"
 order: 4
